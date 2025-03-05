@@ -1,4 +1,4 @@
-# Project Name
+# Bridge an ERC-20 Token 
 
 ## Overview
 This project bridges and claims assets through a two-step process. First, an asset is bridged, then it is claimed.
