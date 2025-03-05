@@ -7,8 +7,8 @@ This project bridges and claims assets through a two-step process. First, an ass
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/AkshatGada/Bridge_ERC20_tutorial.git example 
+   cd example 
    ```
 2. **Install Packages**
    ```bash
